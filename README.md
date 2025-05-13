@@ -112,6 +112,8 @@ Binary
 0000000011000000
 1011000000000000
 ```
-##Quartus waveform simulation
-![image](https://github.com/user-attachments/assets/2be9a139-1d70-4685-8c6d-b38ddda1ada0)
+### 📈 Waveform Output
+
+![Waveform Simulation](https://github.com/user-attachments/assets/2be9a139-1d70-4685-8c6d-b38ddda1ada0)
+
 
