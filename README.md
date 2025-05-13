@@ -104,6 +104,11 @@ Linp $1        # Input 210 to $1
 Linp $2        # Input 310 to $2
 Add $0, $1, $4 # R[$4] = R[$0] + R[$1]
 Wout $4        # Output the result in $4
-```binary
+binary
+1000000000000000
+1000010000000000
+1000100000000000
+0000000011000000
+1011000000000000
 ![image](https://github.com/user-attachments/assets/2be9a139-1d70-4685-8c6d-b38ddda1ada0)
 
